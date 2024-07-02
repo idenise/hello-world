@@ -1,2 +1,6 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+Why am I starting on a new adventure? I want the flexibility to set my own hours, help my mom, work anywhere, and make money. I have been a teacher all my life, but officially only for 10 years in a school setting. I moved on to web design, communications, and records management for 10 years with a telecommunication company that no longer exists. Events took me back to where I grew up, and I’ve worked in a position for 13 years where I was the single person to run a rural water department office.  Last fall, life shifted again, and after the Board President put me in my place, I decided it was time again to move on.
+
+I taught math for five years to middle school students and teachers.  The mathematical part of my brain was balanced out by the creative part by producing yearbooks and materials for theatre and teaching how to use a little 15-floppy disk program called Photoshop.  My fascination with all things tech is an ongoing passion that still exists. I’ve been on Apple products the entire time and found it much harder to figure out the PC parts of life and how to combine some web/database parts.
+
+I love to learn, and even when I was teaching those middle school kids, basic programming was there. All my life lessons have brought me to this point. I’m ready for the next challenge. When I saw Dr. Emily on FB, I loved her positive nature. I really loved the “Joy” of Coding, as I have always gone for Joy in my life. So, once again, life brought me to connect.
